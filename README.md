@@ -30,13 +30,13 @@ To run the KalaKriti MERN e-commerce project locally, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/shopkalakriti/shopkalakriti.live.git
+   git clone https://github.com/Saynsha/Vishwakriti.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd shopkalakriti.live
+   cd Vishwakriti
    ```
 
 3. Install the dependencies for the backend:
@@ -79,30 +79,3 @@ To run the KalaKriti MERN e-commerce project locally, follow these steps:
 
 8. Open your browser and navigate to `http://localhost:3000` to view the application.
 
-## Contributions
-
-Contributions to the project are welcome! If you find a bug, have a feature request, or want to contribute code, please follow these steps:
-
-1. Fork this repository to your GitHub account.
-2. Clone the forked repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/Saynsha/Vishwakriti.git
-   ```
-
-3. Create a new branch using the following command:
-
-   ```bash
-   git checkout -b new-branch-name
-   ```
-
-4. Make your changes and commit them to your local repository.
-
-5. Push your changes to your forked repository:
-
-   ```bash
-   git push origin new-branch-name
-   ```
-
-6. Open a pull request for review.
-"# Vishwakriti" 
