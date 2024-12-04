@@ -30,7 +30,7 @@ const BlogScreen = () => {
   return (
     <section>
       <div className="section-header">
-        <h1>KalaKriti Blog</h1>
+        <h1>Vishwakriti Blog</h1>
       </div>
 
       <div className="section blogs-center section-center">
